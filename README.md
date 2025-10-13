@@ -1,7 +1,5 @@
 ## Hello there, I'm Ahmed Khaled - aka Akayiz (I'm currently majoring in CS) 👋
 
-- 🌱 I’m currently learning as much as I can
-
 ### Connect with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/akayiz/" target="_blank">
@@ -11,4 +9,4 @@
 
 <br />
 
-![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia) 
+![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=akayiz&count_private=true&show_icons=true&theme=algolia) 
