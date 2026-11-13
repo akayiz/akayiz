@@ -1,4 +1,4 @@
-## Hello there, I'm Ahmed Yousry - aka Akayiz (I'm currently majoring in CS) 👋
+## Hello there, I'm Ahmed Yousry - aka Akayiz (I'm currently working at Thndr ⚡)
 
 ### Connect with me:
 <div align="left">
